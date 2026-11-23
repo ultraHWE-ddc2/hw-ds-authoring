@@ -19,13 +19,13 @@ The contract itself is in [`SKILL.md`](SKILL.md). Start there.
 from a house template, runs the checks):
 
 ```bash
-git clone https://github.com/Vigddc2/hw-ds-authoring.git "$HOME/.claude/skills/hw-ds-authoring"
+git clone https://github.com/ultraHWE-ddc2/hw-ds-authoring.git "$HOME/.claude/skills/hw-ds-authoring"
 ```
 
 Windows PowerShell:
 
 ```powershell
-git clone https://github.com/Vigddc2/hw-ds-authoring.git "$env:USERPROFILE\.claude\skills\hw-ds-authoring"
+git clone https://github.com/ultraHWE-ddc2/hw-ds-authoring.git "$env:USERPROFILE\.claude\skills\hw-ds-authoring"
 ```
 
 Then open a new Claude Code session; type `/hw-ds-authoring` or just ask for a
